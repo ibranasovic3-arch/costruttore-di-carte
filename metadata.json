@@ -1,0 +1,6 @@
+{
+  "name": "Monopoly Carte Abilità - Il Mazzo Completo",
+  "description": "Mazzo completo di Carte Abilità e Poteri per Monopoly con grafiche e icone originali, visualizzatore 3D, generatore di carte e modalità di stampa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
